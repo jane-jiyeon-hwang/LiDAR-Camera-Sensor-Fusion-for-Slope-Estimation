@@ -42,15 +42,15 @@ This repository contains:
 ### **Raw Inputs**
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 30%;">
-    <img src="./images/364804.999997.jpg" width="100%" />
+    <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997.jpg" width="100%" />
     <p><b>Original Camera Image</b></p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="./images/364804.999997_mask_rgb.png" width="100%" />
+    <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_mask_rgb.png" width="100%" />
     <p><b>Semantic Segmentation Output</b></p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="./images/364804.999997_raw.png" width="100%" />
+    <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_raw.png" width="100%" />
     <p><b>Raw LiDAR Point Cloud</b></p>
   </div>
 </div>
@@ -60,11 +60,11 @@ This repository contains:
 ### **Final Outputs**
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 45%;">
-    <img src="./images/364804.999997_Final_4.png" width="100%" />
+    <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_Final_4.png" width="100%" />
     <p><b>DBSCAN Road-Surface Cluster</b></p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="./images/364804.999997_Final_5.png" width="100%" />
+    <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_Final_5.png" width="100%" />
     <p><b>Final Road-Slope Estimation</b></p>
   </div>
 </div>
