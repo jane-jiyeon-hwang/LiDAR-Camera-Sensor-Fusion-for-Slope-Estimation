@@ -61,11 +61,9 @@ This repository contains:
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center; width: 45%;">
     <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_Final_4.png" width="100%" />
-    <p><b>DBSCAN Road-Surface Cluster</b></p>
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="Multimodal LiDAR-Camera Sensor Fusion Algorithm for Road Longitudinal Slope Estimation/images/364804.999997_Final_5.png" width="100%" />
-    <p><b>Final Road-Slope Estimation</b></p>
   </div>
 </div>
 
