@@ -1,6 +1,3 @@
-# LiDAR-Camera-Sensor-Fusion-for-Slope-Estimation
-Multimodal LiDAR–Camera fusion pipeline for road-surface extraction and longitudinal slope estimation.
-
 # Multimodal LiDAR–Camera Sensor Fusion for Road Longitudinal Slope Estimation
 
 A multimodal perception pipeline that fuses LiDAR point clouds and camera images to extract road surface points and estimate longitudinal slope. The pipeline uses geometric calibration, 3D–2D projection, semantic segmentation, and DBSCAN clustering to robustly remove roadside noise and reduce slope estimation error.
